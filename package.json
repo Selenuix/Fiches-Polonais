@@ -1,0 +1,13 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "---\r title: Fiches de révision Polonais\r lang: fr-FR\r description: Un moyen rapide de retrouver mes notes.\r metaTitle: Fiches Polonais\r home: true\r heroText: Fiches de révision Polonais\r tagline: Un seul endroit pour toutes mes fiches !\r actionText: Get Started →\r footer: MIT Licensed | Copyright © 2020-present CISZEK Anthony\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build docs",
+    "docs:dev": "vuepress dev docs"
+  },
+  "author": "",
+  "license": "MIT"
+}
