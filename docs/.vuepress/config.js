@@ -1,8 +1,8 @@
 module.exports = {
-    title: 'Polonais',
+    base: "/Fiches-Polonais/",
+    title: 'Fiches Polonais',
     description: 'Apprendre et retenir',
     themeConfig: {
       home: true,
-    },
-    base: "/Fiches-Polonais/"
+    }
   }
