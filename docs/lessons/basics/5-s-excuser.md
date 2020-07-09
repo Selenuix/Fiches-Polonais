@@ -10,7 +10,7 @@ footer: MIT Licensed
 Sory. */soré/*  
 Désolé
 
-## De manière 
+## De manière formelle
 
 Przepraszam. */Pjépacham/*  
 Excuse moi, désolé (*formel et informel*)

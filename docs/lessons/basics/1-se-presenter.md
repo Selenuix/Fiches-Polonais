@@ -11,7 +11,7 @@ footer: MIT Licensed
 
 ## De manière informelle
 
-Cześć! Jestem Anthony. Miło mi (Cię poznać). */tchechtch! Yestème Anthony (an à l'anglaise). Miwo mi tchié poznatch/*  
+Cześć! Jestem Anthony. Miło mi (Cię poznać). */Tchechtch! Yestème Anthony (an à l'anglaise). Miwo mi tchié poznatch/*  
 Salut ! Je suis Anthony. Râvi de te rencontrer.
 
 ## De manière formelle

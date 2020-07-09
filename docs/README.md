@@ -23,6 +23,8 @@ Un autre point important est de savoir demander si quelqu'un parle une langue, a
 
 ## [Leçon 5 : S'excuser](./lessons/basics/5-s-excuser.md)
 
-## [Leçon 5 : Les nombres de 1 à 10](./lessons/basics/6-les-nombres-de-1-a-10)
+## [Leçon 6 : Les nombres de 1 à 10](./lessons/basics/6-les-nombres-de-1-a-10)
 
-## [Leçon 6 : Les nombres de 11 à 100](./lessons/basics/7-les-nombres-de-11-a-100)
+## [Leçon 7 : Les nombres de 11 à 100](./lessons/basics/7-les-nombres-de-11-a-100)
+
+## [Leçon 8 : Combien ?](./lessons/basics/8-combien.md)

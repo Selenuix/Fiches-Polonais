@@ -4,6 +4,8 @@ lang: fr-FR
 footer: MIT Licensed
 ---
 
+# Les nombres de 1 à 10
+
 Zero */zèro/*  
 Zéro
 
