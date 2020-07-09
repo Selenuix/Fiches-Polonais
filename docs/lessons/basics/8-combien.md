@@ -5,7 +5,6 @@ footer: MIT Licensed
 ---
 
 # Combien ?
-
 ## De manière informelle
 
 Ile to kosztuje? */Pjépacham, ilè to coche-touyè/*  
@@ -33,3 +32,7 @@ Escusez-moi, combien coûtent ces pommes ?
 
 Piętnaście złotych */piètnachtzè zwotir/*  
 15 złotych
+
+### Notes :
+
+La plupart des mots en -a sont féminins (spódnica), les mots en -o sont neutres (jabłko) et le reste est masculin. Ce n'est pas une règle générale, mais ça aide.
