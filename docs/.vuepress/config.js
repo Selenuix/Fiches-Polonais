@@ -4,5 +4,5 @@ module.exports = {
     description: 'Apprendre et retenir',
     themeConfig: {
       home: true,
-    }
+    },
   }

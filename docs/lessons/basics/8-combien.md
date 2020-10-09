@@ -7,31 +7,31 @@ footer: MIT Licensed
 # Combien ?
 ## De manière informelle
 
-Ile to kosztuje? **[(prononciation)](https://voca.ro/1egE4JTVrEtq)**  
+Ile to kosztuje? **[(prononciation)](https://voca.ro/16Xk4tsMj5iM)**  
 Combien ça coûte ?
 
-Po ile? **[(prononciation)](https://voca.ro/1aOd0YeJzJZu)**  
-C'est combien ?
+Za ile? **[(prononciation)](https://voca.ro/1nM8TTqkBvou)**  
+Pour combien ?
 
-Po ile ten zegarek? **[(prononciation)](https://voca.ro/1e6oRN0CBqWV)**  
-C'est combien la montre ?
+:woman: Przepraszam, po ile są te spódnice? **[(prononciation)](https://voca.ro/1n4jt1Va9Xfa)**  
+Excusez-moi, combien coûte cette jupe ?
 
 ## De manière formelle
 
-Przepraszam, ile to kosztuje? **[(prononciation)](https://voca.ro/1e6oRN0CBqWV)**  
+Przepraszam, ile to kosztuje? **[(prononciation)](https://voca.ro/173BuDpK2b1H)**  
 Excusez-moi, combien ça coûte ?
 
-:man: Przepraszam, ile kosztuje ten zegarek? **[(prononciation)](https://voca.ro/11KdoHsxV29k)**  
+:man: Przepraszam, ile kosztuje ten zegarek? **[(prononciation)](https://voca.ro/16vC89kFNuhl)**  
 Excusez-moi, combien coûte cette montre ?
 
-:woman: Przepraszam, ile kosztuje ta spódnica? **[(prononciation)](https://voca.ro/17y4jT1Ya8nR)**  
+:woman: Przepraszam, ile kosztuje ta spódnica? **[(prononciation)](https://voca.ro/1mtSm4I9cZ25)**  
 Excusez-moi, combien coûte cette jupe ?
 
-Przepraszam, ile kosztują te jabłka? **[(prononciation)](https://voca.ro/1eblg7Brr2PA)**  
+Przepraszam, po ile są te jabłka? **[(prononciation)](https://voca.ro/1jVP7THiHmjt)**  
 Escusez-moi, combien coûtent ces pommes ?
 
-Piętnaście złotych **[(prononciation)](https://voca.ro/16DBXAwxoeZL)**  
-15 złotych
+Piętnaście złotych **[(prononciation)](https://voca.ro/1iyIj9sqZB7y)**  
+15 złotych.
 
 ### Notes :
 
