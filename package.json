@@ -1,16 +1,16 @@
 {
-  "name": "fiches-polonais",
-  "version": "1.0.0",
+  "author": "",
   "description": "One place to share all my notes",
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  },
+  "license": "MIT",
   "main": "index.js",
+  "name": "fiches-polonais",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
-  "author": "",
-  "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.6.0"
-  }
+  "version": "1.0.0"
 }

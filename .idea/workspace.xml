@@ -38,7 +38,7 @@
       <command value="docs:dev (npm)" />
     </option>
   </component>
-  <component name="RunManager" selected="npm.docs:dev">
+  <component name="RunManager" selected="npm.docs:build">
     <configuration name="docs:build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -59,14 +59,26 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="npm.docs:build" />
       <item itemvalue="npm.docs:dev" />
+      <item itemvalue="npm.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.docs:dev" />
         <item itemvalue="npm.docs:build" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.docs:dev" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +93,7 @@
       <workItem from="1602176552335" duration="1205000" />
       <workItem from="1602179900006" duration="327000" />
       <workItem from="1602180227179" duration="3604000" />
-      <workItem from="1602259918901" duration="2150000" />
+      <workItem from="1602259918901" duration="2571000" />
     </task>
     <servers />
   </component>
@@ -97,22 +109,22 @@
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
     <state x="623" y="296" width="424" height="484" key="FileChooserDialogImpl/0.27.1680.1023@0.27.1680.1023" timestamp="1602180223133" />
-    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1602259981060">
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1602262488340">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.27.1680.1023@0.27.1680.1023" timestamp="1602259981060" />
-    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1602259981059">
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.27.1680.1023@0.27.1680.1023" timestamp="1602262488340" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1602262488339">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.center/0.27.1680.1023@0.27.1680.1023" timestamp="1602259981059" />
-    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1602259981059">
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.27.1680.1023@0.27.1680.1023" timestamp="1602262488339" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1602262488339">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.left/0.27.1680.1023@0.27.1680.1023" timestamp="1602259981059" />
-    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1602259981060">
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.27.1680.1023@0.27.1680.1023" timestamp="1602262488339" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1602262488340">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.right/0.27.1680.1023@0.27.1680.1023" timestamp="1602259981060" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.27.1680.1023@0.27.1680.1023" timestamp="1602262488340" />
     <state x="504" y="246" width="672" height="677" key="run.anything.popup" timestamp="1602259947867">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
