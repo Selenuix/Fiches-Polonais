@@ -13,9 +13,6 @@ Combien ça coûte ?
 Za ile? **[(prononciation)](https://voca.ro/1nM8TTqkBvou)**  
 Pour combien ?
 
-:woman: Przepraszam, po ile są te spódnice? **[(prononciation)](https://voca.ro/1n4jt1Va9Xfa)**  
-Excusez-moi, combien coûte cette jupe ?
-
 ## De manière formelle
 
 Przepraszam, ile to kosztuje? **[(prononciation)](https://voca.ro/173BuDpK2b1H)**  
