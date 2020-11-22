@@ -2,25 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/00c2d48abd551aa0d4ab538aafe6ed23.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/00c2d48abd551aa0d4ab538aafe6ed23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/0a3f801b2bb3d38d1533c48691a8e1b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/0a3f801b2bb3d38d1533c48691a8e1b9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/11f1aa6da6b5b81d68309912dd57bc0e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/11f1aa6da6b5b81d68309912dd57bc0e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/3d7a2a47edbc9102476bb94fa8e4cf60.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/3d7a2a47edbc9102476bb94fa8e4cf60.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/5a06ac988d4815b6847f2ecaf2d8446e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/5a06ac988d4815b6847f2ecaf2d8446e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/6710955a62bd4e677f5b0067f4a2fd7c.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6710955a62bd4e677f5b0067f4a2fd7c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/8ae9d8369b449637fa492397f0510dae.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/8ae9d8369b449637fa492397f0510dae.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/8fb3e7fa08d2e7c4055e3c343c691594.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/8fb3e7fa08d2e7c4055e3c343c691594.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b2c2e412f4cb40c86fbb00413c25e19d.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b2c2e412f4cb40c86fbb00413c25e19d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/c257127dfc95f11c666d72064a669670.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/c257127dfc95f11c666d72064a669670.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/cc1c20e889635f7e069a11dfeeacc312.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/cc1c20e889635f7e069a11dfeeacc312.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/cf20971f9a1b009c0bb49e119eaacc57.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/cf20971f9a1b009c0bb49e119eaacc57.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/f6bfec52c54dadde536f4a7c52f320d1.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f6bfec52c54dadde536f4a7c52f320d1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/f78e559377cd0ef2ccd7e5335c56a186.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f78e559377cd0ef2ccd7e5335c56a186.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/styles/index.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fiches-Polonais.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fiches-Polonais.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.ffd72d3f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.6904bace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.19d64cb7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.8739907b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.25c57440.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.197981c3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.3621548f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.933a585e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.0280d95a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/18.0f4c6927.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.1ebb63d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.c0b421fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/20.b5e25fac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.fb61182f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.b41e69dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.5bc5eaa4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.e416f727.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.ac52e2d9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.8504cb14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.2b2d5c94.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.536dba30.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/1-se-presenter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/10-les-emotions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/11-demander-de-l-aide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/12-top-25-des-phrases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/13-a-ty-et-co-u-ciebie-mieux-comprendre.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/2-merci-et-de-rien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/3-saluer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/4-parles-tu-francais.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/5-s-excuser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/6-les-nombres-de-0-a-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/7-les-nombres-de-11-a-100.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/8-combien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/basics/9-top-25-des-verbes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/1024x1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/1240x600.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/icons/msapplication-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/icons/apple-touch-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/24x24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/300x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/44x44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/50x50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/620x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/88x88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/icons/96x96.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +89,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -140,7 +181,7 @@
       <workItem from="1602180227179" duration="3604000" />
       <workItem from="1602259918901" duration="9045000" />
       <workItem from="1606046817077" duration="20000" />
-      <workItem from="1606056133849" duration="7267000" />
+      <workItem from="1606056133849" duration="12606000" />
     </task>
     <servers />
   </component>
@@ -152,10 +193,10 @@
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
     <state x="298" y="196" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1680.1023@0.27.1680.1023" timestamp="1602268406381" />
-    <state x="981" y="338" width="547" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606061706773">
+    <state x="981" y="338" width="547" height="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606071612830">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state x="981" y="338" width="547" height="408" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1680.1023@0.27.1680.1023" timestamp="1606061706773" />
+    <state x="981" y="338" width="547" height="408" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1680.1023@0.27.1680.1023" timestamp="1606071612830" />
     <state x="573" y="288" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606056909688">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
@@ -180,6 +221,10 @@
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
     <state width="1638" height="266" key="GridCell.Tab.0.right/0.27.1680.1023@0.27.1680.1023" timestamp="1602270809888" />
+    <state x="363" y="135" width="944" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1606063894334">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state x="363" y="135" width="944" height="814" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1680.1023@0.27.1680.1023" timestamp="1606063894334" />
     <state x="504" y="246" width="672" height="677" key="run.anything.popup" timestamp="1602259947867">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
