@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9618258913f2f9782cac49d12f8e1218"
+    "revision": "9f4ef457fc2a7ea454f2c03804df9e0d"
   },
   {
     "url": "assets/css/0.styles.d580cbbe.css",
@@ -38,12 +38,12 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.a6424268.js",
-    "revision": "88d9fc9a325a1c6a305c87633a4e5a5c"
+    "url": "assets/js/10.ef7c7db5.js",
+    "revision": "80223f4ce57175f812134bdbbc6860d6"
   },
   {
-    "url": "assets/js/11.b7acde9c.js",
-    "revision": "4ec794780241cf87b840f4ac8c62014f"
+    "url": "assets/js/11.6838246f.js",
+    "revision": "8bc0298fca6ee53b9f3822722fd05673"
   },
   {
     "url": "assets/js/12.90d70bb1.js",
@@ -54,16 +54,16 @@ self.__precacheManifest = [
     "revision": "686e8437c8ee959aea5765b7adebd488"
   },
   {
-    "url": "assets/js/14.ed3133bc.js",
-    "revision": "c94038ee037bedf5b5c9e28520f06f52"
+    "url": "assets/js/14.5ff8b05e.js",
+    "revision": "847d0f885caecc1854bfb8224095228c"
   },
   {
-    "url": "assets/js/15.7df29b26.js",
-    "revision": "4b25fef33e87251114b4af41128f4098"
+    "url": "assets/js/15.20282237.js",
+    "revision": "5034e75d41e887b95032bb551f59519f"
   },
   {
-    "url": "assets/js/16.44e02c61.js",
-    "revision": "4081cd8a9941544321d0eccc0c995658"
+    "url": "assets/js/16.0745c207.js",
+    "revision": "8788f20abf2de2b43eac71d2bddda737"
   },
   {
     "url": "assets/js/17.f217547b.js",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "0b40b8f90a14ffbf33f3255fde911f43"
   },
   {
-    "url": "assets/js/app.e3f3b411.js",
-    "revision": "6b35266243c5f5d8682f1fb5833dd36b"
+    "url": "assets/js/app.8ffa4d2a.js",
+    "revision": "a05d80f6f0a8291af5c4a91f48041648"
   },
   {
     "url": "exercises/index.html",
-    "revision": "160135292965042f4e474d6c6af620ce"
+    "revision": "b4c6cda896b539c269556240f63e25ad"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -143,55 +143,55 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "3e6728990886225ed1db7d1da76d005a"
+    "revision": "dc6a9bce56ebb5db5c22c7d2e235edc4"
   },
   {
     "url": "lessons/1-se-presenter.html",
-    "revision": "a22bd15bea5d74e9e74fdde5d1fb7855"
+    "revision": "c91e3268d039368e31e7a8e8ba801c90"
   },
   {
     "url": "lessons/10-les-emotions.html",
-    "revision": "d8fb89c764e86b64d4e58ce2b74a6534"
+    "revision": "3e2ccea006d1b49f213e0138fa9599c1"
   },
   {
     "url": "lessons/11-demander-de-l-aide.html",
-    "revision": "917d04860e210aed03332404f6832641"
+    "revision": "442045d901378961033d1dd2d0d57977"
   },
   {
     "url": "lessons/12-a-ty-et-co-u-ciebie-mieux-comprendre.html",
-    "revision": "66882afff0b695ad83dad9595040c23f"
+    "revision": "48bdc60d8964c1b4ebf436bf8a0d4187"
   },
   {
     "url": "lessons/2-merci-et-de-rien.html",
-    "revision": "0f85ec1b3d7edd8af489e7351b196908"
+    "revision": "574a6ee92faab71b5042c1907eb4ca65"
   },
   {
     "url": "lessons/3-saluer.html",
-    "revision": "c1cb5e79159f1932ad9411f801a20f0f"
+    "revision": "1c8eb2aade4d988ac215a4c79af69cc1"
   },
   {
     "url": "lessons/4-parles-tu-francais.html",
-    "revision": "b9628e8637828b848ec8434e4e6cf361"
+    "revision": "e0b74dd42286bdf2f61c9274c0262bd7"
   },
   {
     "url": "lessons/5-s-excuser.html",
-    "revision": "00c62e5b443525b068227cec2c52efe9"
+    "revision": "b0717b4dca2137dcd503f336f0f8bf7f"
   },
   {
     "url": "lessons/6-les-nombres-de-0-a-10.html",
-    "revision": "85087c03db5fa5e23dcb6ae513a37f7f"
+    "revision": "27c2a2f1169818bdafdc79c883425496"
   },
   {
     "url": "lessons/7-les-nombres-de-11-a-100.html",
-    "revision": "d0226c4c84442af01c06b057d3b84350"
+    "revision": "e996cbbf711abd3168f08c3277db38c1"
   },
   {
     "url": "lessons/8-combien.html",
-    "revision": "e99242d8f9e7cff1a1f21b4730df56c3"
+    "revision": "1e7596c5aca116454125e87eba4de924"
   },
   {
     "url": "lessons/9-top-25-des-verbes.html",
-    "revision": "7514cd3b0eb29bee28bd6f0b41ff5457"
+    "revision": "02ea1652358fce625956ac3f092def24"
   },
   {
     "url": "logo.png",
