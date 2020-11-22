@@ -10,9 +10,15 @@ module.exports = {
         ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-msapplication-icon-144x144.png' }],
         ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
     ],
-    plugins: {
-        "@vuepress/pwa": { updatePopup: true},
-    },
+    plugins: [
+        [
+            '@vuepress/pwa',
+            {
+                serviceWorker: true,
+                updatePopup: true
+            }
+        ]
+    ],
     base: "/Fiches-Polonais/",
     title: 'Fiches Polonais',
     description: 'Apprendre et retenir',
