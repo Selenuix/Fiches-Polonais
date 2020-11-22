@@ -14,7 +14,7 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "/icons/24x24.png",
+      "src": "icons/24x24.png",
       "sizes": "24x24",
       "type": "image/png"
     },
