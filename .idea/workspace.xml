@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/exercises/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/00c2d48abd551aa0d4ab538aafe6ed23.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/00c2d48abd551aa0d4ab538aafe6ed23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/0a3f801b2bb3d38d1533c48691a8e1b9.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/0a3f801b2bb3d38d1533c48691a8e1b9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/3d7a2a47edbc9102476bb94fa8e4cf60.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/3d7a2a47edbc9102476bb94fa8e4cf60.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/5a06ac988d4815b6847f2ecaf2d8446e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/5a06ac988d4815b6847f2ecaf2d8446e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/6710955a62bd4e677f5b0067f4a2fd7c.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/6710955a62bd4e677f5b0067f4a2fd7c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/8ae9d8369b449637fa492397f0510dae.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/8ae9d8369b449637fa492397f0510dae.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/8fb3e7fa08d2e7c4055e3c343c691594.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/8fb3e7fa08d2e7c4055e3c343c691594.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/b2c2e412f4cb40c86fbb00413c25e19d.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/b2c2e412f4cb40c86fbb00413c25e19d.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/c257127dfc95f11c666d72064a669670.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/c257127dfc95f11c666d72064a669670.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/cc1c20e889635f7e069a11dfeeacc312.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/cc1c20e889635f7e069a11dfeeacc312.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/cf20971f9a1b009c0bb49e119eaacc57.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/cf20971f9a1b009c0bb49e119eaacc57.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/f6bfec52c54dadde536f4a7c52f320d1.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f6bfec52c54dadde536f4a7c52f320d1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.cache/f78e559377cd0ef2ccd7e5335c56a186.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/f78e559377cd0ef2ccd7e5335c56a186.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +121,7 @@
       <workItem from="1602180227179" duration="3604000" />
       <workItem from="1602259918901" duration="9045000" />
       <workItem from="1606046817077" duration="20000" />
-      <workItem from="1606056133849" duration="4689000" />
+      <workItem from="1606056133849" duration="4744000" />
     </task>
     <servers />
   </component>
