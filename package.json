@@ -2,6 +2,7 @@
   "author": "CISZEK Anthony",
   "description": "One place to share all my notes",
   "devDependencies": {
+    "@vuepress/plugin-pwa": "^1.7.1",
     "vuepress": "^1.6.0"
   },
   "license": "MIT",

@@ -1,0 +1,30 @@
+{
+  "dir": "ltr",
+  "lang": "fr-FR",
+  "name": "Fiches Polonais",
+  "short_name": "Fiches Polonais",
+  "scope": "/Fiches-Polonais/",
+  "display": "browser",
+  "start_url": "https://selenuix.github.io/Fiches-Polonais/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "Un moyen rapide de retrouver mes notes.",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "icons": [],
+  "url": "https://selenuix.github.io/Fiches-Polonais",
+  "screenshots": [
+    {
+      "src": "/screenshots/desktop.png",
+      "sizes": "1280x800",
+      "type": "image/png"
+    },
+    {
+      "src": "/screenshots/mobile.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["french", "polish", "education", "student", "notes"]
+}
