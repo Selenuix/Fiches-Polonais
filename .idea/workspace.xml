@@ -4,15 +4,14 @@
     <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.e4b1d3b2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.b7acde9c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.6885041e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.bbaca7ae.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.21f82df1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.20282237.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/18.ee4232e9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.79ef9750.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.c7b1a919.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.ef7c7db5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.4067742c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.89df9f1f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.7df29b26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.0745c207.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.f217547b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.b11470bc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.dee01bce.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/exercises/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/exercises/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/1-se-presenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/1-se-presenter.html" afterDir="false" />
@@ -76,7 +75,7 @@
       <command value="docs:dev (npm)" />
     </option>
   </component>
-  <component name="RunManager" selected="Shell Script.Deploy Dev">
+  <component name="RunManager" selected="Shell Script.Deploy Prod">
     <configuration name="Deploy Dev" type="ShConfigurationType">
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/deploy-dev.sh" />
@@ -150,7 +149,7 @@
       <workItem from="1602180227179" duration="3604000" />
       <workItem from="1602259918901" duration="9045000" />
       <workItem from="1606046817077" duration="20000" />
-      <workItem from="1606056133849" duration="16416000" />
+      <workItem from="1606056133849" duration="16943000" />
     </task>
     <servers />
   </component>

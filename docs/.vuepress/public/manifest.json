@@ -3,7 +3,7 @@
   "lang": "fr-FR",
   "name": "Fiches Polonais",
   "short_name": "Fiches Polonais",
-  "scope": "/",
+  "scope": "/Fiches-Polonais/",
   "display": "standalone",
   "start_url": "https://selenuix.github.io/Fiches-Polonais/",
   "background_color": "#000000",
