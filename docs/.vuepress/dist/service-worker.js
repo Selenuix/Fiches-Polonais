@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "402e3998da5b9650101a940ab5941038"
+    "revision": "7fb2289c5fa1eaca6ebf2accc998065a"
   },
   {
     "url": "assets/css/0.styles.d580cbbe.css",
@@ -38,16 +38,16 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.ef7c7db5.js",
-    "revision": "80223f4ce57175f812134bdbbc6860d6"
+    "url": "assets/js/10.e4b1d3b2.js",
+    "revision": "65f2a15f4987f9cc6e0687b41226d988"
   },
   {
-    "url": "assets/js/11.6838246f.js",
-    "revision": "8bc0298fca6ee53b9f3822722fd05673"
+    "url": "assets/js/11.b7acde9c.js",
+    "revision": "4ec794780241cf87b840f4ac8c62014f"
   },
   {
-    "url": "assets/js/12.90d70bb1.js",
-    "revision": "d6d744bfe6cf9cd881158ada88027975"
+    "url": "assets/js/12.6885041e.js",
+    "revision": "02f58b510ee69c071719622663620fd0"
   },
   {
     "url": "assets/js/13.6951a2ca.js",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "0b40b8f90a14ffbf33f3255fde911f43"
   },
   {
-    "url": "assets/js/app.18958db3.js",
-    "revision": "35c6c495dde94ff1ad134588a51ba9f1"
+    "url": "assets/js/app.7b7a9a49.js",
+    "revision": "0416cc11846a7d63f98c0cdc5945e57c"
   },
   {
     "url": "exercises/index.html",
-    "revision": "3cdc96c19b9da898175ee3542209ef53"
+    "revision": "96d3ffe35576915f20e9b8bdaa453c25"
   },
   {
     "url": "icons/1024x1024.png",
@@ -223,55 +223,55 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b825c90fe0ce4c8d7ca45ad2acf083e2"
+    "revision": "2f456417cc107e18925e9a6fceb193df"
   },
   {
     "url": "lessons/1-se-presenter.html",
-    "revision": "50991a6950c40ee2403659c9e0c7b4ce"
+    "revision": "b6ec65b0089b6b39ba090ebc1ec1921a"
   },
   {
     "url": "lessons/10-les-emotions.html",
-    "revision": "0c952443b9b2ce11c52fae0a067b1be3"
+    "revision": "6437ed842b698e4c9930bdc5a8697190"
   },
   {
     "url": "lessons/11-demander-de-l-aide.html",
-    "revision": "386f16a9daadcf616d81ad4da77dac8f"
+    "revision": "250dc7b29ee2d0e79c644381e4d6212a"
   },
   {
     "url": "lessons/12-a-ty-et-co-u-ciebie-mieux-comprendre.html",
-    "revision": "35b4100e62528515a116cb3a2e53c779"
+    "revision": "95aa49754aea3d90ff9eb483a6740244"
   },
   {
     "url": "lessons/2-merci-et-de-rien.html",
-    "revision": "332f53d4f73e853f2f1496f042670c17"
+    "revision": "e39e054cf806ca767f71ab7b461fd313"
   },
   {
     "url": "lessons/3-saluer.html",
-    "revision": "bbc9ee729f04221384f5a78e33a07bf4"
+    "revision": "98d9df3512259cd15daf2b2c248c6965"
   },
   {
     "url": "lessons/4-parles-tu-francais.html",
-    "revision": "05ab0358643ba18301ef76a75666d313"
+    "revision": "8e43010799c23a544675d88c39dfac69"
   },
   {
     "url": "lessons/5-s-excuser.html",
-    "revision": "9ef3a3df0885b63715d31b23c7628d4f"
+    "revision": "1e2a57483449e0361eb293e48e714c05"
   },
   {
     "url": "lessons/6-les-nombres-de-0-a-10.html",
-    "revision": "5d3ba5fd8ff78c4336338fe212b2b485"
+    "revision": "42c0a786e62b6a922f6794d6c792e6da"
   },
   {
     "url": "lessons/7-les-nombres-de-11-a-100.html",
-    "revision": "bc66cc1e3b2f267f4667599c6d8aa6b3"
+    "revision": "c2ba3443c86381c1cb9cfb8feab6c703"
   },
   {
     "url": "lessons/8-combien.html",
-    "revision": "7cb99f28deced82c4ea9da6ef8ad6736"
+    "revision": "e55978d93839af32665e38acd8d0e5a4"
   },
   {
     "url": "lessons/9-top-25-des-verbes.html",
-    "revision": "5a8f0fefad8e890128c38e9bace3046c"
+    "revision": "231c0bbe625abd6f1b33235ac6cf5ed3"
   },
   {
     "url": "logo.png",

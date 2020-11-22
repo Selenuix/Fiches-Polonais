@@ -4,9 +4,10 @@
     <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.4067742c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.6885041e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.46b56543.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.ef7c7db5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.6838246f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.90d70bb1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.18958db3.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/exercises/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/exercises/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/1-se-presenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/1-se-presenter.html" afterDir="false" />
@@ -144,7 +145,7 @@
       <workItem from="1602180227179" duration="3604000" />
       <workItem from="1602259918901" duration="9045000" />
       <workItem from="1606046817077" duration="20000" />
-      <workItem from="1606056133849" duration="15666000" />
+      <workItem from="1606056133849" duration="15900000" />
     </task>
     <servers />
   </component>

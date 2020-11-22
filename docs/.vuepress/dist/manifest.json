@@ -4,7 +4,7 @@
   "name": "Fiches Polonais",
   "short_name": "Fiches Polonais",
   "scope": "/Fiches-Polonais/",
-  "display": "fullscreen",
+  "display": "standalone",
   "start_url": "https://selenuix.github.io/Fiches-Polonais/",
   "background_color": "#000000",
   "theme_color": "transparent",
