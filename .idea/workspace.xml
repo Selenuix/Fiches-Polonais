@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="" />
+    <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/lessons/2-merci-et-de-rien.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/lessons/5-s-excuser.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.536dba30.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.536dba30.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/1-se-presenter.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/1-se-presenter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/10-les-emotions.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/10-les-emotions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/11-demander-de-l-aide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/11-demander-de-l-aide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/12-top-25-des-phrases.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/13-a-ty-et-co-u-ciebie-mieux-comprendre.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/12-a-ty-et-co-u-ciebie-mieux-comprendre.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/2-merci-et-de-rien.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/3-saluer.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/3-saluer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/4-parles-tu-francais.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/4-parles-tu-francais.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/5-s-excuser.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/6-les-nombres-de-0-a-10.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/6-les-nombres-de-0-a-10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/7-les-nombres-de-11-a-100.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/7-les-nombres-de-11-a-100.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/8-combien.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/8-combien.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lessons/basics/9-top-25-des-verbes.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lessons/9-top-25-des-verbes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +41,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ibW0fXab4uQg12zUa8vib5Oc7X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,10 +51,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/deploy-prod.sh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/lessons" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -110,7 +139,9 @@
       <workItem from="1602176552335" duration="1205000" />
       <workItem from="1602179900006" duration="327000" />
       <workItem from="1602180227179" duration="3604000" />
-      <workItem from="1602259918901" duration="7728000" />
+      <workItem from="1602259918901" duration="9045000" />
+      <workItem from="1606046817077" duration="20000" />
+      <workItem from="1606056133849" duration="4424000" />
     </task>
     <servers />
   </component>
@@ -122,33 +153,37 @@
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
     <state x="298" y="196" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1680.1023@0.27.1680.1023" timestamp="1602268406381" />
-    <state x="623" y="296" width="424" height="484" key="FileChooserDialogImpl" timestamp="1602268404264">
+    <state x="573" y="288" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606056909688">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state x="623" y="296" width="424" height="484" key="FileChooserDialogImpl/0.27.1680.1023@0.27.1680.1023" timestamp="1602268404264" />
-    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1602268419858">
+    <state x="573" y="288" width="524" height="508" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1680.1023@0.27.1680.1023" timestamp="1606056909688" />
+    <state x="623" y="296" width="424" height="484" key="FileChooserDialogImpl" timestamp="1606046823942">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.27.1680.1023@0.27.1680.1023" timestamp="1602268419858" />
-    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1602268419858">
+    <state x="623" y="296" width="424" height="484" key="FileChooserDialogImpl/0.27.1680.1023@0.27.1680.1023" timestamp="1606046823942" />
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom" timestamp="1602270809889">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.center/0.27.1680.1023@0.27.1680.1023" timestamp="1602268419858" />
-    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1602268419858">
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.27.1680.1023@0.27.1680.1023" timestamp="1602270809889" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center" timestamp="1602270809888">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.left/0.27.1680.1023@0.27.1680.1023" timestamp="1602268419858" />
-    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1602268419858">
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.27.1680.1023@0.27.1680.1023" timestamp="1602270809888" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left" timestamp="1602270809888">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state width="1638" height="266" key="GridCell.Tab.0.right/0.27.1680.1023@0.27.1680.1023" timestamp="1602268419858" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.27.1680.1023@0.27.1680.1023" timestamp="1602270809888" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right" timestamp="1602270809888">
+      <screen x="0" y="27" width="1680" height="1023" />
+    </state>
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.27.1680.1023@0.27.1680.1023" timestamp="1602270809888" />
     <state x="504" y="246" width="672" height="677" key="run.anything.popup" timestamp="1602259947867">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
     <state x="504" y="246" width="672" height="677" key="run.anything.popup/0.27.1680.1023@0.27.1680.1023" timestamp="1602259947867" />
-    <state x="503" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1602264386837">
+    <state x="503" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1606056205701">
       <screen x="0" y="27" width="1680" height="1023" />
     </state>
-    <state x="503" y="251" width="672" height="678" key="search.everywhere.popup/0.27.1680.1023@0.27.1680.1023" timestamp="1602264386837" />
+    <state x="503" y="251" width="672" height="678" key="search.everywhere.popup/0.27.1680.1023@0.27.1680.1023" timestamp="1606056205701" />
   </component>
 </project>

@@ -3,6 +3,8 @@ module.exports = {
     title: 'Fiches Polonais',
     description: 'Apprendre et retenir',
     themeConfig: {
-      home: true,
+        home: true,
+        lastUpdated: 'Last Updated',
+        smoothScroll: true,
     },
   }
