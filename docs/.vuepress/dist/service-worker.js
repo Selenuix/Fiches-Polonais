@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0de7ef27c04aaee9173a0f08265646ec"
+    "revision": "a3c8c46fab730a4f0676fde9bacd852a"
   },
   {
     "url": "assets/css/0.styles.d580cbbe.css",
@@ -122,12 +122,12 @@ self.__precacheManifest = [
     "revision": "0b40b8f90a14ffbf33f3255fde911f43"
   },
   {
-    "url": "assets/js/app.212f27f1.js",
-    "revision": "af266e40ed4d6606c81a4ffc98934f33"
+    "url": "assets/js/app.46b56543.js",
+    "revision": "14aa7f49059274576fc00aa1e553d1b8"
   },
   {
     "url": "exercises/index.html",
-    "revision": "d1a1f60ab1d3267fd62ae8c548351469"
+    "revision": "944c7df908c56b29ff5cc6f1cbf6b1cd"
   },
   {
     "url": "icons/apple-touch-icon-152x152.png",
@@ -143,55 +143,55 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "bf790150d96377064c7ddd6d605a6cec"
+    "revision": "8b47d624c3355e591e1e31512f7c176c"
   },
   {
     "url": "lessons/1-se-presenter.html",
-    "revision": "63607e7eaabdb3d2c57969fefadf58fc"
+    "revision": "aa2175b07201ac60070067fedb7174ee"
   },
   {
     "url": "lessons/10-les-emotions.html",
-    "revision": "cb524f61dac616d58f94c1654b788ecc"
+    "revision": "9dd3ba7001d9e80b55ec6aa06587900e"
   },
   {
     "url": "lessons/11-demander-de-l-aide.html",
-    "revision": "e114dfda6163e25e4493208c23422a19"
+    "revision": "9aa1ef15ea37e04f43ec38ac66d50a58"
   },
   {
     "url": "lessons/12-a-ty-et-co-u-ciebie-mieux-comprendre.html",
-    "revision": "c6af09273f75e6f24addf4a01026c4ef"
+    "revision": "a4ebcf5ea456cba272bb4fa43467eddd"
   },
   {
     "url": "lessons/2-merci-et-de-rien.html",
-    "revision": "735f45195843ddcf5d768cca7049723d"
+    "revision": "63f96713490f3b1b996bcbf88dd79641"
   },
   {
     "url": "lessons/3-saluer.html",
-    "revision": "ba5122e220674585ab588e38513019be"
+    "revision": "f6dc6acef08176d5168f088517891e67"
   },
   {
     "url": "lessons/4-parles-tu-francais.html",
-    "revision": "323cd59e9d8c1bb938414831b6720e52"
+    "revision": "105a588823ac644322835ea5e8815abd"
   },
   {
     "url": "lessons/5-s-excuser.html",
-    "revision": "813172e6530c01e17e554c118447c1b1"
+    "revision": "846f0746d37e6f37e15b20fbac88da93"
   },
   {
     "url": "lessons/6-les-nombres-de-0-a-10.html",
-    "revision": "f5049f8c75ff92d7e444c7e03799921c"
+    "revision": "99af5d8543da611af91b81a426c955e0"
   },
   {
     "url": "lessons/7-les-nombres-de-11-a-100.html",
-    "revision": "ae6279565bd6bd6c89dab1af2c59657f"
+    "revision": "34aaff738d7089b433658c683b56394b"
   },
   {
     "url": "lessons/8-combien.html",
-    "revision": "5aab3b82a1c66f22e3aaa7bdb3f9ae25"
+    "revision": "cd6489d897ec30888c34819b0c1b1b72"
   },
   {
     "url": "lessons/9-top-25-des-verbes.html",
-    "revision": "4401332195c31f1b6c2626fa20418c10"
+    "revision": "6ac7e1875b4da51cd99e95a4c96cc86d"
   },
   {
     "url": "logo.png",

@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c7659cf4-e414-4f70-8041-2d4cad657150" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.6838246f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.90d70bb1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.8ffa4d2a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.212f27f1.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/exercises/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/exercises/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/1-se-presenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/1-se-presenter.html" afterDir="false" />
@@ -23,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/8-combien.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/8-combien.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/9-top-25-des-verbes.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/lessons/9-top-25-des-verbes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/public/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +141,7 @@
       <workItem from="1602180227179" duration="3604000" />
       <workItem from="1602259918901" duration="9045000" />
       <workItem from="1606046817077" duration="20000" />
-      <workItem from="1606056133849" duration="13895000" />
+      <workItem from="1606056133849" duration="14936000" />
     </task>
     <servers />
   </component>
