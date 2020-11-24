@@ -6,7 +6,7 @@
   "scope": "/Fiches-Polonais/",
   "display": "standalone",
   "start_url": "https://selenuix.github.io/Fiches-Polonais/",
-  "background_color": "#000000",
+  "background_color": "#3eaf7c",
   "theme_color": "transparent",
   "description": "Un moyen rapide de retrouver mes notes.",
   "orientation": "any",
