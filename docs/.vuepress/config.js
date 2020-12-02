@@ -7,7 +7,7 @@ module.exports = {
         lastUpdated: 'Last Updated',
         smoothScroll: true,
         nav: [
-            { text: 'Acceuil', link: '/' },
+            { text: 'Accueil', link: '/' },
             { text: 'Exercices', link: '/exercises/' },
         ]
     },

@@ -2,7 +2,7 @@
 title: '"A ty" et "Co u Ciebie" : mieux comprendre"'
 lang: fr-FR
 prev: ./11-demander-de-l-aide.md
-next: false
+next: ./13-la-nourriture.md
 footer: MIT Licensed
 ---
 

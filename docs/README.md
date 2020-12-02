@@ -35,3 +35,5 @@ Un autre point important est de savoir demander si quelqu'un parle une langue, a
 ## [Leçon 11 : Demander de l'aide](lessons/11-demander-de-l-aide.md)
 
 ## [Leçon 12 : "A ty" et "A u Ciebie": mieux comprendre](lessons/12-a-ty-et-co-u-ciebie-mieux-comprendre.md)
+
+## [Leçon 13 : La nourriture](lessons/13-la-nourriture.md)

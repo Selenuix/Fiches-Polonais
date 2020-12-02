@@ -13,7 +13,7 @@ footer: MIT Licensed
 ## De manière informelle
 
 Cześć! Jestem Anthony. Miło mi [Cię poznać] **[(prononciation)](https://voca.ro/11aAEYb6fcVW)**  
-Salut ! Je suis Anthony. Râvi de te rencontrer
+Salut ! Je suis Anthony. Ravi de te rencontrer
 
 ## De manière formelle
 :man: Dzień dobry! Nazywam się Anthony Ciszek. Miło mi Pana poznać **[(prononciation)](https://voca.ro/1gv4HRGRNuh1)**  
