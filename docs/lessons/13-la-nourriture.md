@@ -325,7 +325,5 @@ Des fèves
 Brukiew **[(prononciation)](/)**  
 Un rutabaga
 
-
-
 ## Notes
 ¹ Kromka est une tranche de pain. Plaster désigne une tranche de fromage ou de jambon.
