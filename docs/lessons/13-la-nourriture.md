@@ -7,6 +7,9 @@ footer: MIT Licensed
 ---
 
 # La nourriture
+
+[[toc]]
+
 ## Vocabulaire général
 
 Jedzenie **[(prononciation)](/)**  
@@ -331,7 +334,7 @@ Un rutabaga
 Owoce **[(prononciation)](/)**  
 Les fruits
 
-Pomidor **[(prononciation)](/)**
+Pomidor **[(prononciation)](/)**  
 La tomate
 
 Jabłko **[(prononciation)](/)**  
@@ -340,7 +343,7 @@ La pomme
 Gruszka **[(prononciation)](/)**  
 La poire
 
-Wiśnia, czereśnia **[(prononciation)](/)**
+Wiśnia, czereśnia **[(prononciation)](/)**  
 La cerise
 
 Śliwka **[(prononciation)](/)**  
@@ -352,10 +355,10 @@ La mirabelle
 Brzozkwinia **[(prononciation)](/)**  
 La pêche
 
-Nektaryna **[(prononciation)](/)**
+Nektaryna **[(prononciation)](/)**  
 La nectarine
 
-Morela **[(prononciation)](/)**
+Morela **[(prononciation)](/)**  
 l’abricot
 
 Figa **[(prononciation)](/)**  
@@ -364,7 +367,7 @@ La figue
 Daktyl **[(prononciation)](/)**  
 La date
 
-Pigwa **[(prononciation)](/)**
+Pigwa **[(prononciation)](/)**  
 Le coing
 
 Melon miodowy **[(prononciation)](/)**  
@@ -375,7 +378,7 @@ La pastèque
 
 ### Les agrumes (owoce cytrusowe)
 
-Pomarańcza **[(prononciation)](/)**
+Pomarańcza **[(prononciation)](/)**  
 L'orange
 
 Cytryna **[(prononciation)](/)**  
@@ -407,7 +410,7 @@ Le raisin
 Jagoda czarna **[(prononciation)](/)**  
 La myrtille
 
-Jeżyna **[(prononciation)](/)**
+Jeżyna **[(prononciation)](/)**  
 La mûre
 
 Truskawka **[(prononciation)](/)**  
@@ -421,13 +424,13 @@ La fraise des bois
 Banan **[(prononciation)](/)**  
 La banane
 
-Ananas **[(prononciation)](/)**
+Ananas **[(prononciation)](/)**  
 L'ananas
 
-Mango **[(prononciation)](/)**
+Mango **[(prononciation)](/)**  
 La mangue
 
-Papaja **[(prononciation)](/)**
+Papaja **[(prononciation)](/)**  
 La papaye
 
 Granat **[(prononciation)](/)**  
@@ -445,7 +448,7 @@ La figue de Barbarie
 Liczi **[(prononciation)](/)**  
 Le litchi
 
-Karambola **[(prononciation)](/)**
+Karambola **[(prononciation)](/)**  
 La carambole, la pomme de Goa
 
 ### Les fruits à coque (orzechy)
@@ -456,30 +459,30 @@ La noix
 Ozech laskowy **[(prononciation)](/)**  
 La noisette
 
-Orzech ziemne, orzech arachidowe **[(prononciation)](/)**
+Orzech ziemne, orzech arachidowe **[(prononciation)](/)**  
 La cacahuète
 
 Migdał **[(prononciation)](/)**  
 L'amande
 
-Kasztan jadalny **[(prononciation)](/)**
+Kasztan jadalny **[(prononciation)](/)**  
 La châtaigne
 
 Pistacja **[(prononciation)](/)**  
 La pistache
 
-Orzech pekanu **[(prononciation)](/)**
+Orzech pekanu **[(prononciation)](/)**  
 La noix de pécan
 
 Kokos **[(prononciation)](/)**  
 La noix de coco
 
-Orzech pini **[(prononciation)](/)**
+Orzech pini **[(prononciation)](/)**  
 Le pignon de pin
 
 ### La viande
 
-Mięso **[(prononciation)](/)**
+Mięso **[(prononciation)](/)**  
 La viande
 
 wołowina **[(prononciation)](/)**  
@@ -506,13 +509,13 @@ Le jambon
 Jagniecina **[(prononciation)](/)**  
 L'agneau
 
-Indyk **[(prononciation)](/)**
-Le dinde
+Indyk **[(prononciation)](/)**  
+La dinde
 
-Bekon **[(prononciation)](/)**
+Bekon **[(prononciation)](/)**  
 Le bacon
 
-Dziczyzna **[(prononciation)](/)**
+Dziczyzna **[(prononciation)](/)**  
 La venaison
 
 Kiełbasa **[(prononciation)](/)**  
