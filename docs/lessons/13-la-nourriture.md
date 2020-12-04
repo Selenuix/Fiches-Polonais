@@ -325,5 +325,198 @@ Des fèves
 Brukiew **[(prononciation)](/)**  
 Un rutabaga
 
+## Les fruits
+### Général
+
+Owoce **[(prononciation)](/)**  
+Les fruits
+
+Pomidor **[(prononciation)](/)**
+La tomate
+
+Jabłko **[(prononciation)](/)**  
+La pomme
+
+Gruszka **[(prononciation)](/)**  
+La poire
+
+Wiśnia, czereśnia **[(prononciation)](/)**
+La cerise
+
+Śliwka **[(prononciation)](/)**  
+La prune
+
+Mirabelka **[(prononciation)](/)**  
+La mirabelle
+
+Brzozkwinia **[(prononciation)](/)**  
+La pêche
+
+Nektaryna **[(prononciation)](/)**
+La nectarine
+
+Morela **[(prononciation)](/)**
+l’abricot
+
+Figa **[(prononciation)](/)**  
+La figue
+
+Daktyl **[(prononciation)](/)**  
+La date
+
+Pigwa **[(prononciation)](/)**
+Le coing
+
+Melon miodowy **[(prononciation)](/)**  
+Le melon
+
+Arbuz **[(prononciation)](/)**  
+La pastèque
+
+### Les agrumes (owoce cytrusowe)
+
+Pomarańcza **[(prononciation)](/)**
+L'orange
+
+Cytryna **[(prononciation)](/)**  
+Le citron
+
+Limonka **[(prononciation)](/)**  
+Le lime, le citron vert
+
+Grejfrut **[(prononciation)](/)**  
+Le pamplemousse
+
+Mandarynka **[(prononciation)](/)**  
+La mandarine
+
+### Les baies (owoce jagodowe)
+
+Porzeczka czerwona **[(prononciation)](/)**  
+La groseille
+
+Porzeczka czarna **[(prononciation)](/)**  
+Le cassis
+
+Agrest **[(prononciation)](/)**  
+la groseille à maquereau
+
+Winogrono, rodzynki **[(prononciation)](/)**  
+Le raisin
+
+Jagoda czarna **[(prononciation)](/)**  
+La myrtille
+
+Jeżyna **[(prononciation)](/)**
+La mûre
+
+Truskawka **[(prononciation)](/)**  
+La fraise
+
+Poziomka **[(prononciation)](/)**  
+La fraise des bois
+
+### Les fruits tropicaux (owoce tropikalne)
+
+Banan **[(prononciation)](/)**  
+La banane
+
+Ananas **[(prononciation)](/)**
+L'ananas
+
+Mango **[(prononciation)](/)**
+La mangue
+
+Papaja **[(prononciation)](/)**
+La papaye
+
+Granat **[(prononciation)](/)**  
+La grenade
+
+Kiwi **[(prononciation)](/)**  
+Le kiwi
+
+Passiflora, marakuja **[(prononciation)](/)**  
+Le fruit de la passion
+
+Opuncja **[(prononciation)](/)**  
+La figue de Barbarie
+
+Liczi **[(prononciation)](/)**  
+Le litchi
+
+Karambola **[(prononciation)](/)**
+La carambole, la pomme de Goa
+
+### Les fruits à coque (orzechy)
+
+Orzech włoski **[(prononciation)](/)**  
+La noix
+
+Ozech laskowy **[(prononciation)](/)**  
+La noisette
+
+Orzech ziemne, orzech arachidowe **[(prononciation)](/)**
+La cacahuète
+
+Migdał **[(prononciation)](/)**  
+L'amande
+
+Kasztan jadalny **[(prononciation)](/)**
+La châtaigne
+
+Pistacja **[(prononciation)](/)**  
+La pistache
+
+Orzech pekanu **[(prononciation)](/)**
+La noix de pécan
+
+Kokos **[(prononciation)](/)**  
+La noix de coco
+
+Orzech pini **[(prononciation)](/)**
+Le pignon de pin
+
+### La viande
+
+Mięso **[(prononciation)](/)**
+La viande
+
+wołowina **[(prononciation)](/)**  
+Le bœuf
+
+Wieprzowina **[(prononciation)](/)**  
+Le porc
+
+Kurczak **[(prononciation)](/)**  
+Le poulet
+
+Kiełbasa **[(prononciation)](/)**  
+Le saucisson
+
+Tuńczyk **[(prononciation)](/)**  
+Le thon
+
+Cielęcina **[(prononciation)](/)**  
+Le veau
+
+Szynka **[(prononciation)](/)**  
+Le jambon
+
+Jagniecina **[(prononciation)](/)**  
+L'agneau
+
+Indyk **[(prononciation)](/)**
+Le dinde
+
+Bekon **[(prononciation)](/)**
+Le bacon
+
+Dziczyzna **[(prononciation)](/)**
+La venaison
+
+Kiełbasa **[(prononciation)](/)**  
+La saucisse
+
 ## Notes
 ¹ Kromka est une tranche de pain. Plaster désigne une tranche de fromage ou de jambon.
