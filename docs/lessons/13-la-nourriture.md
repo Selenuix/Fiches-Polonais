@@ -518,5 +518,123 @@ La venaison
 Kiełbasa **[(prononciation)](/)**  
 La saucisse
 
+## Les boissons (napoje)
+
+Woda **[(prononciation)](/)**  
+L'eau
+
+Woda mineralna **[(prononciation)](/)**  
+L'eau minérale
+
+Woda gazowana **[(prononciation)](/)**  
+L'eau gazeuse
+
+Piwo **[(prononciation)](/)**  
+La bière
+
+Wino **[(prononciation)](/)**  
+Le vin
+
+Czerwone wino **[(prononciation)](/)**  
+Le vin rouge
+
+Białe wino **[(prononciation)](/)**  
+Le vin blanc
+
+Różowe **[(prononciation)](/)**  
+Le vin rosé, le rosé
+
+Słodkie **[(prononciation)](/)**  
+Le vin moelleux
+
+Wytrawne **[(prononciation)](/)**  
+Le vin sec
+
+Musujące **[(prononciation)](/)**  
+Le vin pétillant
+
+Kawa **[(prononciation)](/)**  
+Le café
+
+Kawa z ekspresu **[(prononciation)](/)**  
+Le café expresso
+
+Kawa z mlekiem **[(prononciation)](/)**  
+Le café au lait
+
+Kawa ze śmietanką **[(prononciation)](/)**  
+Le café crème
+
+Czarna kawa **[(prononciation)](/)**  
+Le café noir
+
+Bezkofeinowa **[(prononciation)](/)**  
+Le café décaféiné, un décaféiné
+
+Herbata **[(prononciation)](/)**  
+Le thé
+
+Filiżanka herbaty **[(prononciation)](/)**  
+Une tasse de thé
+
+Herbata z mlekiem **[(prononciation)](/)**  
+Le thé au lait
+
+Herbata z cytryną **[(prononciation)](/)**  
+Le thé au citron
+
+Gorąca czekolada **[(prononciation)](/)**  
+Le chocolat chaud
+
+Lemoniada **[(prononciation)](/)**  
+La limonade
+
+Koktajl mleczny **[(prononciation)](/)**  
+Un milkshake
+
+Sok owocowy **[(prononciation)](/)**  
+Le jus de fruit
+
+Sok pomarańczowy **[(prononciation)](/)**  
+Le jus d'orange
+
+Sok pomidorowy **[(prononciation)](/)**  
+Le jus de tomate
+
+Wódka **[(prononciation)](/)**  
+La vodka
+
+Rum **[(prononciation)](/)**  
+Le rhum
+
+Likier **[(prononciation)](/)**  
+La liqueur
+
+Whisky **[(prononciation)](/)**  
+Le whisky
+
+## Desserts et sucreries
+
+Deser **[(prononciation)](/)**  
+Le dessert
+
+Cukier **[(prononciation)](/)**  
+Le sucre
+
+Cukierek **[(prononciation)](/)**  
+Le bonbon
+
+Ciasto, Ciastko **[(prononciation)](/)**  
+Le gâteau
+
+Tarta **[(prononciation)](/)**  
+La tarte
+
+Czekolada **[(prononciation)](/)**  
+Le chocolat
+
+Lody **[(prononciation)](/)**  
+La glace
+
 ## Notes
 ¹ Kromka est une tranche de pain. Plaster désigne une tranche de fromage ou de jambon.
