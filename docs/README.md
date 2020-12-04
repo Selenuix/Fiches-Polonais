@@ -5,7 +5,7 @@ tagline: Un moyen rapide de retrouver mes notes.
 metaTitle: Fiches Polonais
 description: Un moyen rapide de retrouver mes notes.
 lang: fr-FR
-footer: MIT Licensed | Copyright © 2020-present CISZEK Anthony
+footer: MIT Licensed | CISZEK Anthony
 ---
 
 ## [Leçon 1 : Se présenter](lessons/1-se-presenter.md)
