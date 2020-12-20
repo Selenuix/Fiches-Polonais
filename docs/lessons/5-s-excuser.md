@@ -8,6 +8,8 @@ footer: MIT Licensed
 
 # S'excuser
 
+[[toc]]
+
 ## De manière informelle
 Sory **[(prononciation)](https://voca.ro/11T3QcySg6ce)**  
 Désolé

@@ -7,6 +7,9 @@ footer: MIT Licensed
 ---
 
 # Combien ?
+
+[[toc]]
+
 ## De manière informelle
 
 Ile to kosztuje? **[(prononciation)](https://voca.ro/16Xk4tsMj5iM)**  
@@ -32,6 +35,6 @@ Escusez-moi, combien coûtent ces pommes ?
 Piętnaście złotych **[(prononciation)](https://voca.ro/1iyIj9sqZB7y)**  
 15 złotych
 
-### Notes :
+## Notes
 
 La plupart des mots en -a sont féminins (spódnica), les mots en -o sont neutres (jabłko) et le reste est masculin. Ce n'est pas une règle générale, mais ça aide.

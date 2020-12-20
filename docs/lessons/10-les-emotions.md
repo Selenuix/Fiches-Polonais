@@ -7,6 +7,9 @@ footer: MIT Licensed
 ---
 
 # Les émotions
+
+[[toc]]
+
 ## Positives
 
 :man: Jestem szczęśliwy / :woman: szczęśliwa **[(prononciation)](https://voca.ro/18uBGbwA9rPZ)**  

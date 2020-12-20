@@ -7,6 +7,9 @@ footer: MIT Licensed
 ---
 
 # Demander de l'aide
+
+[[toc]]
+
 ## De manière informelle
 
 Możesz to wyjaśnić? **[(prononciation)](https://voca.ro/19x3DNNE2VSg)**   

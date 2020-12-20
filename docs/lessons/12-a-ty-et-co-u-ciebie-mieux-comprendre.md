@@ -7,6 +7,9 @@ footer: MIT Licensed
 ---
 
 # "A ty" et "Co u Ciebie" : mieux comprendre
+
+[[toc]]
+
 ## A ty
 
 - "Jak się masz?" **[(prononciation)](https://voca.ro/12sg1492885v)**   
@@ -25,5 +28,5 @@ Bien et chez toi ?
 - U mnie też **[(prononciation)](https://voca.ro/11I20YniURzV)**  
 Chez moi aussi
 
-### Rappel
+## Rappel
 Ne pas oublier ces règles de base, c'est très important !
