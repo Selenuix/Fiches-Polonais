@@ -2,8 +2,8 @@
   "author": "CISZEK Anthony",
   "description": "One place to share all my notes",
   "devDependencies": {
-    "@vuepress/plugin-pwa": "^1.7.1",
-    "vuepress": "^1.7.1"
+    "@vuepress/plugin-pwa": "^1.8.0",
+    "vuepress": "^1.8.0"
   },
   "license": "MIT",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "version": "1.0.0",
   "dependencies": {
-    "@vuepress/core": "^1.7.1",
+    "@vuepress/core": "^1.8.0",
     "moment": "^2.29.1"
   }
 }
