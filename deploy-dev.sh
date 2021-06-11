@@ -4,7 +4,7 @@
 set -e
 
 # if you are deploying to a custom domain
-# echo 'www.example.com' > CNAME
+echo 'polonais.selenuix.tools' > CNAME
 
 git init
 git add -A
