@@ -14,6 +14,6 @@ git commit -m "Deploy dev"
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Selenuix/Fiches-Polonais.git master:develop
+git push -f git@github.com:Selenuix/Fiches-Polonais.git develop:develop
 
 cd -
